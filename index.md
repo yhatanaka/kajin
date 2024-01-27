@@ -17,7 +17,7 @@ https://yhatanaka.github.io/kajin/
   
 - 国・地方自治体
   
-  - それぞれの***市町村***のWebサイト
+  - ***市町村***のWebサイト
 
 ------
 
