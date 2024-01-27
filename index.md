@@ -1,5 +1,9 @@
 https://yhatanaka.github.io/kajin/
 
+![QR_343148.png](/Users/hatanaka/Dropbox/高校生物/科学と人間生活/repo/kajin/QR_343148.png)
+
+*2024-01-29*
+
 # 科学と人間生活 4編2章 自然景観と自然災害
 
 ## 2節 自然災害と防災
@@ -29,4 +33,3 @@ https://yhatanaka.github.io/kajin/
 市町村で公表しているハザードマップへのリンク
 
 演習
-2024-01-29
