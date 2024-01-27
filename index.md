@@ -1,6 +1,6 @@
 https://yhatanaka.github.io/kajin/
 
-<img src="file:///Users/hatanaka/Dropbox/高校生物/科学と人間生活/repo/kajin/QR_343148.png" title="" alt="QR_343148.png" data-align="right">
+<img src="QR_343148.png" title="" alt="QR_343148.png" data-align="right">
 
 *2024-01-29*
 
