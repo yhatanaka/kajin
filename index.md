@@ -1,14 +1,12 @@
 https://yhatanaka.github.io/kajin/
 
-![QR_343148.png](/Users/hatanaka/Dropbox/高校生物/科学と人間生活/repo/kajin/QR_343148.png)
+<img src="file:///Users/hatanaka/Dropbox/高校生物/科学と人間生活/repo/kajin/QR_343148.png" title="" alt="QR_343148.png" data-align="right">
 
 *2024-01-29*
 
-# 科学と人間生活 4編2章 自然景観と自然災害
+# 科学と人間生活 4編2章 自然景観と自然災害 > 2節 自然災害と防災
 
-## 2節 自然災害と防災
-
-### 「今の状況」を知るには
+## 「今の状況」を知るには
 
 - 気象庁
 
@@ -20,7 +18,7 @@ https://yhatanaka.github.io/kajin/
   
   - それぞれの市町村のWebサイト
 
-### 事前に調べておくこと
+## 事前に調べておくこと
 
 それぞれの場所の「リスク」の予想
 
