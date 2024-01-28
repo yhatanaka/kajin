@@ -10,9 +10,9 @@ https://yhatanaka.github.io/kajin/
 
 ## 「今の状況」を知るには
 
-- ***キキクル (気象庁)*** !https://www.jma.go.jp/bosai/
+- ***![キキクル (気象庁)](https://www.jma.go.jp/bosai/)***
 
-- ***川の防災情報*** (国土交通省 ) https://www.river.go.jp/index
+- ![***川の防災情報***](https://www.river.go.jp/index) (国土交通省 )
   - 「***川  防災***」で検索
   
 - 国・地方自治体
@@ -47,10 +47,10 @@ https://yhatanaka.github.io/kajin/
     - 【NHK】ハザードマップ｜洪水・浸水・土砂災害
   
   - 詳しく調べたい時は…
-    - ***ハザードマップポータルサイト***(国土地理院) https://disaportal.gsi.go.jp
+    - ![***ハザードマップポータルサイト***](https://disaportal.gsi.go.jp)(国土地理院)
       - 「***わがまちハザードマップ***」
         - 市町村が公表したハザードマップへの***リンク***がまとまっている
-      - 「***重ねるハザードマップ***」https://disaportal.gsi.go.jp/hazardmap/maps/
+      - 「***![重ねるハザードマップ](https://disaportal.gsi.go.jp/hazardmap/maps/)***」
         - ハザードマップを何種類も***切り替えたり重ねたり***して見られる
     
   - どれも「ハザードマップ」で検索すると出てくる
@@ -62,4 +62,5 @@ https://yhatanaka.github.io/kajin/
 
 ------
 
-- [授業スライド(2024-01-29)](2023_4-2-2.pdf)
+- ![授業スライド(2024-01-29)](2023_4-2-2.pdf)
+
