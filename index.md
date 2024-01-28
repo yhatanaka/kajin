@@ -47,10 +47,10 @@ https://yhatanaka.github.io/kajin/
     - 【NHK】ハザードマップ｜洪水・浸水・土砂災害
   
   - 詳しく調べたい時は…
-    - [***ハザードマップポータルサイト***](https://disaportal.gsi.go.jp)(国土地理院)
+    - [***ハザードマップポータルサイト***](https://disaportal.gsi.go.jp){:target="_blank"}(国土地理院)
       - 「***わがまちハザードマップ***」
         - 市町村が公表したハザードマップへの***リンク***がまとまっている
-      - 「***[重ねるハザードマップ](https://disaportal.gsi.go.jp/hazardmap/maps/)***」
+      - 「***[重ねるハザードマップ](https://disaportal.gsi.go.jp/hazardmap/maps/){:target="_blank"}***」
         - ハザードマップを何種類も***切り替えたり重ねたり***して見られる
     
   - どれも「ハザードマップ」で検索すると出てくる
