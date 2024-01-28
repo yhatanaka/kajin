@@ -10,7 +10,7 @@ https://yhatanaka.github.io/kajin/
 
 ## 「今の状況」を知るには
 
-- ***キキクル (気象庁)*** https://www.jma.go.jp/bosai/
+- ***キキクル (気象庁)*** !https://www.jma.go.jp/bosai/
 
 - ***川の防災情報*** (国土交通省 ) https://www.river.go.jp/index
   - 「***川  防災***」で検索
