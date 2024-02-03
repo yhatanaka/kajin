@@ -19,7 +19,7 @@ https://yhatanaka.github.io/kajin/
 - [***ハザードマップポータルサイト***](https://disaportal.gsi.go.jp){:target="_blank"}(国土地理院)
   - 「***[重ねるハザードマップ](https://disaportal.gsi.go.jp/hazardmap/maps/){:target="_blank"}***」
 
-- [授業スライド(2024-01-29)](2023_4-2-2.pdf)
+- [授業スライド(2024-01-29)](2023_4-2-2.pdf){:target="_blank"}
 
 
 
