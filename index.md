@@ -12,16 +12,18 @@ https://yhatanaka.github.io/kajin/
 
 
 
-## 前回1月29日(月)のまとめ
+### 前回1月29日(月)のまとめ
 
 - ***[キキクル (気象庁)](https://www.jma.go.jp/bosai/){:target="_blank"}***
 
 - [***ハザードマップポータルサイト***](https://disaportal.gsi.go.jp){:target="_blank"}(国土地理院)
   - 「***[重ねるハザードマップ](https://disaportal.gsi.go.jp/hazardmap/maps/){:target="_blank"}***」
 
-- [授業スライド(2024-01-29)](2023_4-2-2.pdf){:target="_blank"}
 
 
+## 今日の授業内容
 
-今日の授業内容
-
+1. こんなシナリオを考えてみよう。
+   1. 休日に、ある場所に遊びに行った。
+   2. 突然、大きな地震発生。
+   3. 次にあげるグループごとに
