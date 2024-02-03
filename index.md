@@ -23,3 +23,5 @@ https://yhatanaka.github.io/kajin/
 
 
 
+今日の授業内容
+
