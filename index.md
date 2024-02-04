@@ -75,7 +75,7 @@
 - Google ドキュメント
   - まず「空白のドキュメント」作る
   - [テンプレート](https://docs.google.com/document/d/1nZi93QU5PuQGbkLDS_o0nBjQ6urtatDgTZ5072UGa_w/edit?usp=sharing){:target="_blank"}から、中身をコピー&ペースト(貼り付け)
-  - タイトルの部分を
+  - タイトルの部分をクリックすると、自動的に「1年 科学と人間生活 4編2章2節 提出課題」に
 
 ### 提出方法
 
