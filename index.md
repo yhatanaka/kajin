@@ -74,7 +74,7 @@
   - 
 - Google ドキュメント
   - まず「空白のドキュメント」作る
-  - テンプレート
+  - [テンプレート](https://docs.google.com/document/d/1nZi93QU5PuQGbkLDS_o0nBjQ6urtatDgTZ5072UGa_w/edit?usp=sharing){:target="_blank"}
 
 ### 提出方法
 
