@@ -74,7 +74,8 @@
   - 
 - Google ドキュメント
   - まず「空白のドキュメント」作る
-  - [テンプレート](https://docs.google.com/document/d/1nZi93QU5PuQGbkLDS_o0nBjQ6urtatDgTZ5072UGa_w/edit?usp=sharing){:target="_blank"}
+  - [テンプレート](https://docs.google.com/document/d/1nZi93QU5PuQGbkLDS_o0nBjQ6urtatDgTZ5072UGa_w/edit?usp=sharing){:target="_blank"}から、中身をコピー&ペースト(貼り付け)
+  - タイトルの部分を
 
 ### 提出方法
 
