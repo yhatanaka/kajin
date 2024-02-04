@@ -93,7 +93,7 @@
 
 ### (おまけ: テスト前課題 & テスト範囲)
 
--    [2023_kajin_2#2_.pdf](2023_kajin_2#2_.pdf){:target="_blank"}
+-    [2023_kajin_2-2_.pdf](2023_kajin_2-2_.pdf){:target="_blank"}
 
 ------
 
